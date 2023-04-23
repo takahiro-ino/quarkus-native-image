@@ -3,6 +3,7 @@ Quarkus native image for confirmation
 
 ## build log
 mvn -f /tmp/hello/getting-started/pom.xml clean package -Pnative -DskipTests
+
 [INFO] Scanning for projects...
 [INFO] 
 [INFO] ------------< com.redhat.quarkus.platform:getting-started >-------------
